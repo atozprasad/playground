@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example package for NSXT API Configreader",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/atozprasad/playground/python/nsxtapiconfreader",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

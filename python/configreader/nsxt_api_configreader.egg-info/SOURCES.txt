@@ -1,5 +1,0 @@
-setup.py
-nsxt_api_configreader.egg-info/PKG-INFO
-nsxt_api_configreader.egg-info/SOURCES.txt
-nsxt_api_configreader.egg-info/dependency_links.txt
-nsxt_api_configreader.egg-info/top_level.txt
